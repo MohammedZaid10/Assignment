@@ -1,2 +1,0 @@
-COMMAND LINE FOR INSTALLING THE CLIENT LIBRARY:
-pip install --upgrade google-cloud-datastore
